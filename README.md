@@ -1,6 +1,6 @@
 # Solana Candy Machine V2 + Candy Shop
 
-This repo allows you to sell NFTs through Candy Machine V2 and host your own secondary marketplace with [Candy Shop](https://github.com/storyofsoft/Solana_NFT_marketplace).
+This repo allows you to sell NFTs through Candy Machine V2 and host your own secondary marketplace with [Candy Shop](https://github.com/PierreAndre8099/Solana-NFT-Marketplace-by-CandyMachine).
 
 Supports the following marketplace configurations:
 * Basic SOL marketplace
