@@ -195,7 +195,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Need Help ?
 
-You can contact me directly on Email : storyofsoft1024@gmail.com
+You can contact me directly on Email : pierreandre8099@gmail.com
 
 ## To thank me with a small SOL tip :]
 
